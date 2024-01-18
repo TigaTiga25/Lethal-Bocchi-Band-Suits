@@ -1,0 +1,9 @@
+{
+    "name": "Bocchi_Suit",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/TigaTiga25/Lethal-Bocchi-Suit",
+    "description": "Bocchi needs to meet the quota for her next concert!",
+    "dependencies": [
+        "x753-More_Suits-1.4.0"
+    ]
+}
