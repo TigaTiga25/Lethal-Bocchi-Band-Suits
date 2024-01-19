@@ -1,5 +1,15 @@
-# Bocchi Band Suits v1.1.0
+# Bocchi Band Suits v1.1.1
 ### Adds Bocchi the Rock! characters to Lethal Company as suits.
+
+#### v1.1.1
+```
+- Nijika Suit Revamp
+	- Reworked Bow
+	- Changed Sock Color
+	- Added Doritos
+```
+
+
 
 ## Instructions
 Place the ```TigaTiga25-Bocchi_Band_Suits-X.X.X``` folder in your ```BepInEx/Plugins``` folder.
@@ -31,6 +41,12 @@ Requires ```x735-More_Suits``` to work.
 
 ## Changelog
 ```
+- v1.1.1
+	- Nijika Suit Revamp
+		- Reworked Bow
+		- Changed Sock Color
+		- Added Doritos
+
 - v1.1.0
 	- Updated Version + Nijika Suit added
 
