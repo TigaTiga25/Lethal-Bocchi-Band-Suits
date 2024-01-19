@@ -1,13 +1,39 @@
-# Bocchi Suit v1.0.0
-### Bocchi needs to meet the quota for her next concert!
+# Bocchi Band Suits v1.1.0
+### Adds Bocchi the Rock! characters to Lethal Company as suits.
 
 ## Instructions
-Place the ```TigaTiga25-Bocchi_Suit-X.X.X``` folder in your ```BepInEx/Plugins``` folder.
+Place the ```TigaTiga25-Bocchi_Band_Suits-X.X.X``` folder in your ```BepInEx/Plugins``` folder.
+Requires ```x735-More_Suits``` to work.
+
+## Content
+#### Current Suits 
+- Bocchi Suit
+- Nijika Suit
+
+#### -- More suits in future versions --
+
 
 ## Previews
-![Suit Front](https://raw.githubusercontent.com/TigaTiga25/Lethal-Bocchi-Suit/main/preview/bocchi-front.png)
+### Bocchi (front)
+![Bocchi Front](https://raw.githubusercontent.com/TigaTiga25/Lethal-Bocchi-Band-Suits/main/preview/bocchi-front.png)
 
-![Suit Back](https://raw.githubusercontent.com/TigaTiga25/Lethal-Bocchi-Suit/main/preview/bocchi-back.png)
+### Bocchi (back)
+![Bocchi Back](https://raw.githubusercontent.com/TigaTiga25/Lethal-Bocchi-Band-Suits/main/preview/bocchi-back.png)
 
-### Disclaimer: No Bocchis were harmed during the making of this suit.
-![Boccher Bracken](https://raw.githubusercontent.com/TigaTiga25/Lethal-Bocchi-Suit/main/preview/bracken-boccher.png)
+### Nijika (front)
+![Nijika Front](https://raw.githubusercontent.com/TigaTiga25/Lethal-Bocchi-Band-Suits/main/preview/nijika-front.png)
+
+### Nijika (back)
+![Nijika Back](https://raw.githubusercontent.com/TigaTiga25/Lethal-Bocchi-Band-Suits/main/preview/nijika-back.png)
+
+### Disclaimer: No Bocchis were harmed during the making of any suits.
+![Boccher Bracken](https://raw.githubusercontent.com/TigaTiga25/Lethal-Bocchi-Band-Suits/main/preview/bracken-boccher.png)
+
+## Changelog
+```
+- v1.1.0
+	- Updated Version + Nijika Suit added
+
+- v1.0.0
+	- Initial Release (Bocchi Suit)
+```
