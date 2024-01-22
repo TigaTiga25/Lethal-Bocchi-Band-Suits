@@ -1,9 +1,9 @@
-# Bocchi Band Suits v1.2.0
+# Bocchi Band Suits v1.3.0
 ### Adds Bocchi the Rock! characters to Lethal Company as suits.
 
-#### v1.2.0
+#### v1.3.0
 ```
-- Ryo Suit added
+- Kita Suit added
 ```
 
 ## Instructions
@@ -15,8 +15,9 @@ Requires ```x735-More_Suits``` to work.
 - Bocchi Suit
 - Nijika Suit
 - Ryo Suit
+- Kita Suit
 
-#### -- More suits in future versions --
+#### -- Main band suits done, possibly more content in future updates --
 
 
 ## Previews
@@ -47,6 +48,14 @@ Requires ```x735-More_Suits``` to work.
 ![Ryo Back](https://raw.githubusercontent.com/TigaTiga25/Lethal-Bocchi-Band-Suits/main/preview/ryo-back.png)
 </details>
 
+<details> <summary><b>Kita</b></summary>
+
+### Kita (front)
+![Kita Front](https://raw.githubusercontent.com/TigaTiga25/Lethal-Bocchi-Band-Suits/main/preview/kita-front.png)
+
+### Kita (back)
+![Kita Back](https://raw.githubusercontent.com/TigaTiga25/Lethal-Bocchi-Band-Suits/main/preview/kita-back.png)
+</details>
 
 <details> <summary><b>???</b></summary>
 
@@ -56,6 +65,9 @@ Requires ```x735-More_Suits``` to work.
 
 ## Changelog
 ```
+- v1.3.0
+	- Kita Suit added
+
 - v1.2.0
 	- Ryo Suit added
 
